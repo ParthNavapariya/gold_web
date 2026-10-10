@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "eyebrow": "Live Gold Rates",
+    "headline": "Today's Gold Rates in Ahmedabad",
+    "subheadline": "Updated by our trading desk. Rates are indicative — contact us for exact bulk transaction pricing."
+  },
+  "disclaimer": "Rates are indicative and updated periodically by our trading desk. Actual transaction rates may vary based on quantity, purity verification, and market conditions. For live bulk pricing, contact our desk directly.",
+  "cta": {
+    "headline": "Get Exact Bulk Pricing",
+    "subheadline": "Our trading desk quotes live rates for bulk orders of any size. WhatsApp or call for an instant quote.",
+    "whatsapp": "WhatsApp for a Quote",
+    "call": "Call Our Desk",
+    "enquire": "Send an Enquiry"
+  },
+  "faq": [
+    {
+      "id": "faq1",
+      "question": "How often are rates updated?",
+      "answer": "Our trading desk updates rates throughout the trading day, typically aligned with MCX session timings. For real-time transaction rates, always call or WhatsApp us directly."
+    },
+    {
+      "id": "faq2",
+      "question": "What is the minimum order for bulk pricing?",
+      "answer": "We offer preferential bulk pricing starting from 100 grams. Larger orders above 1 kg attract further discounts. Contact our desk for a custom quote."
+    },
+    {
+      "id": "faq3",
+      "question": "Do you offer gold on credit to jewellers?",
+      "answer": "Yes, we offer credit facilities to registered jeweller clients with an established relationship. Please visit our office or contact us to discuss terms."
+    },
+    {
+      "id": "faq4",
+      "question": "Are your gold bars BIS hallmarked?",
+      "answer": "All gold supplied by Ahmedabad Gold Process is BIS hallmarked and comes with a certificate of purity. We are a registered BIS hallmarking entity."
+    }
+  ]
+}

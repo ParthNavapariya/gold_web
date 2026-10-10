@@ -1,0 +1,136 @@
+{
+  "hero": {
+    "headline": "Ahmedabad's Trusted Gold Trading Partner",
+    "subheadline": "Bulk bullion supply for jewellers and retailers. Transparent pricing, certified purity, and decades of trust.",
+    "cta_primary": "Check Today's Rates",
+    "cta_secondary": "Enquire Now",
+    "trust_badges": [
+      {
+        "id": "tb1",
+        "label": "Certified Gold"
+      },
+      {
+        "id": "tb2",
+        "label": "25 Years of Trust"
+      },
+      {
+        "id": "tb3",
+        "label": "1000+ Jeweller Clients"
+      }
+    ]
+  },
+  "ticker": {
+    "label": "Today's Gold Rates — Ahmedabad",
+    "rates": [
+      {
+        "id": "r1",
+        "purity": "24K (999)",
+        "per_gram": "₹7,420",
+        "per_10g": "₹74,200"
+      },
+      {
+        "id": "r2",
+        "purity": "22K (916)",
+        "per_gram": "₹6,802",
+        "per_10g": "₹68,020"
+      },
+      {
+        "id": "r3",
+        "purity": "18K (750)",
+        "per_gram": "₹5,565",
+        "per_10g": "₹55,650"
+      }
+    ],
+    "updated_at": "Updated: 16 Sep 2026, 11:00 AM"
+  },
+  "services": {
+    "heading": "Our Services",
+    "subheading": "Comprehensive gold trading solutions for jewellers, retailers, and investors.",
+    "items": [
+      {
+        "id": "s1",
+        "title": "Bullion Trading",
+        "description": "Buy and sell gold bullion at competitive market rates with full transparency and documentation.",
+        "icon": "BarChart3"
+      },
+      {
+        "id": "s2",
+        "title": "Gold Bars & Coins",
+        "description": "Premium 24K and 22K gold bars and coins in multiple denominations, BIS hallmarked.",
+        "icon": "Layers"
+      },
+      {
+        "id": "s3",
+        "title": "Purity Testing",
+        "description": "Certified XRF and fire assay purity testing for accurate gold valuation.",
+        "icon": "ShieldCheck"
+      },
+      {
+        "id": "s5",
+        "title": "Gold Loans",
+        "description": "Quick gold-backed loans at competitive interest rates with secure storage.",
+        "icon": "Banknote"
+      },
+      {
+        "id": "s6",
+        "title": "Investment Schemes",
+        "description": "Systematic gold accumulation plans and investment advisory for long-term wealth.",
+        "icon": "TrendingUp"
+      }
+    ]
+  },
+  "stats": {
+    "heading": "Why Jewellers Trust Us",
+    "subheading": "Decades of expertise, certified quality, and relationships built on transparency.",
+    "items": [
+      {
+        "id": "st1",
+        "value": 25,
+        "suffix": "+",
+        "label": "Years in Business"
+      },
+      {
+        "id": "st2",
+        "value": 500,
+        "suffix": "+",
+        "label": "Jeweller Clients"
+      },
+      {
+        "id": "st3",
+        "value": 10000,
+        "suffix": "kg+",
+        "label": "Gold Traded"
+      }
+    ]
+  },
+  "testimonials": {
+    "heading": "Trusted by Ahmedabad's Finest Jewellers",
+    "items": [
+      {
+        "id": "t1",
+        "quote": "We have been sourcing gold from Ahmedabad Gold Process for over 15 years. Their rates are always competitive and the quality is never in question. A true partner for our business.",
+        "author": "Ramesh Shah",
+        "business": "Ramesh Jewellers, Zaveri Bazaar"
+      },
+      {
+        "id": "t2",
+        "quote": "The purity testing service is exceptional. We send all our incoming gold here before processing. Fast, accurate, and completely trustworthy.",
+        "author": "Priya Mehta",
+        "business": "Mehta Gold House, Manek Chowk"
+      },
+      {
+        "id": "t3",
+        "quote": "Their gold loan facility helped us manage cash flow during peak wedding season. Transparent terms and quick disbursement — highly recommended.",
+        "author": "Suresh Patel",
+        "business": "Patel Ornaments, CG Road"
+      }
+    ]
+  },
+  "cta": {
+    "headline": "Ready to Trade? Get Today's Best Rates.",
+    "subheadline": "Connect with our trading desk for bulk enquiries, live rates, and personalised service.",
+    "cta_whatsapp": "WhatsApp Us",
+    "cta_call": "Call Now",
+    "phone": "+91 98765 43210"
+  }
+}

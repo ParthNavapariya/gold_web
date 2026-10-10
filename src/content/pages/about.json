@@ -1,0 +1,113 @@
+{
+  "hero": {
+    "eyebrow": "Our Story",
+    "headline": "Trusted by Ahmedabad's Jewellers for Over 25 Years",
+    "subheadline": "Founded in 1998 in the heart of Zaveri Bazaar, Ahmedabad Gold Process has grown from a single trading desk to Gujarat's most respected bullion house."
+  },
+  "story": {
+    "heading": "How We Started",
+    "body": [
+      {
+        "id": "p1",
+        "text": "Ahmedabad Gold Process was founded in 1998 by Shri Kantilal Shah, a third-generation gold trader from Zaveri Bazaar. What began as a small bullion trading desk serving local jewellers has grown into one of Gujarat's most trusted names in gold trading, purity testing, and investment advisory."
+      },
+      {
+        "id": "p2",
+        "text": "Over the past 25 years, we have served more than 500 jewellers, retailers, and institutional clients across Ahmedabad, Surat, Vadodara, and Rajkot. Our reputation is built on three pillars: transparent pricing at live MCX/IBJA rates, certified purity testing, and relationships that span generations."
+      },
+      {
+        "id": "p3",
+        "text": "Today, Ahmedabad Gold Process operates a state-of-the-art trading floor, an in-house XRF and fire assay laboratory, and a secure insured vault — all under one roof at our Zaveri Bazaar headquarters."
+      }
+    ]
+  },
+  "credentials": {
+    "heading": "Certifications & Credentials",
+    "subheading": "Every transaction is backed by regulatory compliance and certified quality standards.",
+    "items": [
+      {
+        "id": "c1",
+        "title": "BIS Hallmarking",
+        "description": "All gold bars and coins supplied by us carry BIS hallmarks, guaranteeing purity as per Indian standards."
+      },
+      {
+        "id": "c2",
+        "title": "SEBI Registered",
+        "description": "Registered with SEBI as an investment advisor for gold-related financial products and schemes."
+      },
+      {
+        "id": "c3",
+        "title": "ISO 9001:2015",
+        "description": "ISO certified for quality management systems across our trading, testing, and storage operations."
+      },
+      {
+        "id": "c4",
+        "title": "Bullion Exchange Member",
+        "description": "Active member of the India Bullion and Jewellers Association and recognised bullion exchange participant, adhering to industry best practices."
+      },
+      {
+        "id": "c5",
+        "title": "GST Compliant",
+        "description": "Fully GST registered with transparent invoicing on every transaction — no hidden charges."
+      },
+      {
+        "id": "c6",
+        "title": "Insured Vault",
+        "description": "Our vault storage is fully insured with a leading Indian insurer, protecting client gold at all times."
+      }
+    ]
+  },
+  "values": {
+    "heading": "What We Stand For",
+    "items": [
+      {
+        "id": "v1",
+        "title": "Transparency",
+        "description": "Every price is pegged to live MCX/IBJA rates. No markups, no surprises — just honest trading."
+      },
+      {
+        "id": "v2",
+        "title": "Precision",
+        "description": "Our laboratory delivers purity results accurate to 0.01% — because in gold, every decimal matters."
+      },
+      {
+        "id": "v3",
+        "title": "Trust",
+        "description": "Over 500 jewellers have traded with us for more than a decade. That loyalty is our greatest credential."
+      },
+      {
+        "id": "v4",
+        "title": "Speed",
+        "description": "Same-day settlement for registered clients. Instant buy/sell valuations. No waiting, no delays."
+      }
+    ]
+  },
+  "stats": [
+    {
+      "id": "st1",
+      "value": "1998",
+      "label": "Year Founded"
+    },
+    {
+      "id": "st2",
+      "value": "500+",
+      "label": "Jeweller Clients"
+    },
+    {
+      "id": "st3",
+      "value": "10,000 kg+",
+      "label": "Gold Traded"
+    },
+    {
+      "id": "st4",
+      "value": "6",
+      "label": "Days a Week"
+    }
+  ],
+  "cta": {
+    "headline": "Partner With Us",
+    "subheadline": "Whether you are a jeweller sourcing bulk gold or an investor building a portfolio, we are here to help.",
+    "cta_contact": "Get in Touch",
+    "cta_services": "View Our Services"
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "hero": {
+    "eyebrow": "Our Gold Products",
+    "title": "Premium Gold Products for Jewellers & Investors",
+    "subtitle": "BIS hallmarked, SEBI registered — every product backed by certified purity and transparent MCX-linked pricing."
+  },
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Gold Bars",
+      "description": "Investment-grade gold bars sourced directly from LBMA-accredited refineries. Available in multiple weights with full assay certification.",
+      "products": [
+        {
+          "id": "p-1",
+          "name": "Gold Bar 1g",
+          "purity": "999.9 (24K)",
+          "weight": "1 gram",
+          "hallmark": "BIS Hallmarked",
+          "note": "Ideal for gifting & small investments"
+        },
+        {
+          "id": "p-2",
+          "name": "Gold Bar 5g",
+          "purity": "999.9 (24K)",
+          "weight": "5 grams",
+          "hallmark": "BIS Hallmarked",
+          "note": "Popular retail investment bar"
+        },
+        {
+          "id": "p-3",
+          "name": "Gold Bar 10g",
+          "purity": "999.9 (24K)",
+          "weight": "10 grams",
+          "hallmark": "BIS Hallmarked",
+          "note": "Most popular denomination"
+        },
+        {
+          "id": "p-4",
+          "name": "Gold Bar 50g",
+          "purity": "999.9 (24K)",
+          "weight": "50 grams",
+          "hallmark": "BIS Hallmarked",
+          "note": "Preferred by jewellers"
+        },
+        {
+          "id": "p-5",
+          "name": "Gold Bar 100g",
+          "purity": "999.9 (24K)",
+          "weight": "100 grams",
+          "hallmark": "BIS Hallmarked",
+          "note": "Bulk trading standard"
+        },
+        {
+          "id": "p-6",
+          "name": "Gold Bar 1kg",
+          "purity": "999.9 (24K)",
+          "weight": "1 kilogram",
+          "hallmark": "BIS Hallmarked",
+          "note": "Institutional & wholesale"
+        }
+      ]
+    },
+    {
+      "id": "cat-2",
+      "name": "Gold Coins",
+      "description": "Minted gold coins with tamper-proof packaging and certificate of authenticity. Perfect for gifting, ceremonies, and retail resale.",
+      "products": [
+        {
+          "id": "p-7",
+          "name": "Gold Coin 1g",
+          "purity": "999.9 (24K)",
+          "weight": "1 gram",
+          "hallmark": "BIS Hallmarked",
+          "note": "Festive gifting favourite"
+        },
+        {
+          "id": "p-8",
+          "name": "Gold Coin 2g",
+          "purity": "999.9 (24K)",
+          "weight": "2 grams",
+          "hallmark": "BIS Hallmarked",
+          "note": "Wedding & puja gifting"
+        },
+        {
+          "id": "p-9",
+          "name": "Gold Coin 5g",
+          "purity": "999.9 (24K)",
+          "weight": "5 grams",
+          "hallmark": "BIS Hallmarked",
+          "note": "Diwali & Dhanteras special"
+        },
+        {
+          "id": "p-10",
+          "name": "Gold Coin 10g",
+          "purity": "999.9 (24K)",
+          "weight": "10 grams",
+          "hallmark": "BIS Hallmarked",
+          "note": "Premium gifting & investment"
+        },
+        {
+          "id": "p-11",
+          "name": "Gold Coin 20g",
+          "purity": "999.9 (24K)",
+          "weight": "20 grams",
+          "hallmark": "BIS Hallmarked",
+          "note": "High-value gifting"
+        },
+        {
+          "id": "p-12",
+          "name": "Gold Coin 22K 8g",
+          "purity": "916 (22K)",
+          "weight": "8 grams",
+          "hallmark": "BIS Hallmarked",
+          "note": "Jewellery-grade coin"
+        }
+      ]
+    },
+    {
+      "id": "cat-3",
+      "name": "Certified Bullion",
+      "description": "Certified gold bullion for jewellers and manufacturers. Available in granules, wire, and sheet form with full purity documentation.",
+      "products": [
+        {
+          "id": "p-13",
+          "name": "Gold Granules 24K",
+          "purity": "999.9 (24K)",
+          "weight": "Per 10g / 100g / 1kg",
+          "hallmark": "Assay Certified",
+          "note": "For jewellery manufacturing"
+        },
+        {
+          "id": "p-14",
+          "name": "Gold Wire 22K",
+          "purity": "916 (22K)",
+          "weight": "Per gram / 10g",
+          "hallmark": "Assay Certified",
+          "note": "Jewellery wire drawing"
+        },
+        {
+          "id": "p-15",
+          "name": "Gold Sheet 18K",
+          "purity": "750 (18K)",
+          "weight": "Per 10g / 50g",
+          "hallmark": "Assay Certified",
+          "note": "Sheet metal for jewellers"
+        },
+        {
+          "id": "p-16",
+          "name": "Gold Alloy 22K",
+          "purity": "916 (22K)",
+          "weight": "Per 100g / 1kg",
+          "hallmark": "Assay Certified",
+          "note": "Custom alloy compositions"
+        }
+      ]
+    },
+    {
+      "id": "cat-4",
+      "name": "Investment Schemes",
+      "description": "Structured gold investment plans designed for systematic accumulation. Flexible tenures with MCX-linked returns.",
+      "products": [
+        {
+          "id": "p-17",
+          "name": "Monthly Gold SIP",
+          "purity": "999.9 (24K)",
+          "weight": "From 1g/month",
+          "hallmark": "BIS Hallmarked",
+          "note": "Systematic gold accumulation"
+        },
+        {
+          "id": "p-18",
+          "name": "Gold Savings Scheme",
+          "purity": "999.9 (24K)",
+          "weight": "11 months + 1 bonus",
+          "hallmark": "BIS Hallmarked",
+          "note": "Festive season redemption"
+        },
+        {
+          "id": "p-19",
+          "name": "Bulk Purchase Plan",
+          "purity": "999.9 (24K)",
+          "weight": "Min. 100g",
+          "hallmark": "BIS Hallmarked",
+          "note": "Locked-in MCX rate pricing"
+        },
+        {
+          "id": "p-20",
+          "name": "Gold Loan Against Bullion",
+          "purity": "18K–24K",
+          "weight": "Any quantity",
+          "hallmark": "Any certified gold",
+          "note": "Up to 90% LTV ratio"
+        }
+      ]
+    }
+  ],
+  "pricing_note": "All prices are MCX-linked and updated in real time. Contact us for today's exact rates.",
+  "cta": {
+    "title": "Get Today's Best Rates",
+    "subtitle": "Call or WhatsApp us for live pricing on any product. Bulk orders get preferential rates.",
+    "whatsapp": "https://wa.me/918905064477",
+    "phone": "tel:+918905064477"
+  }
+}

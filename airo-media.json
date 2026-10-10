@@ -1,0 +1,347 @@
+{
+  "pages/home/gold-bars-coins": {
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2284821844",
+    "searchQuery": "lawyer signing gold investment contract",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1255456819",
+      "https://img1.wsimg.com/isteam/getty/2242655608",
+      "https://img1.wsimg.com/isteam/getty/2151533040",
+      "https://img1.wsimg.com/isteam/getty/802143856",
+      "https://img1.wsimg.com/isteam/getty/1204672416"
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-16T06:14:58.846Z",
+    "lastUpdated": "2026-09-16T08:21:42.400Z",
+    "gettyId": "2284821844",
+    "alternativeGettyIds": [
+      "1255456819",
+      "2242655608",
+      "2151533040",
+      "802143856",
+      "1204672416"
+    ],
+    "caption": "lawyer signing gold investment contract"
+  },
+  "pages/home/hero": {
+    "requestedSize": {
+      "width": 1920,
+      "height": 1080,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2268727892",
+    "searchQuery": "gold bars bullion dark dramatic background premium",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2274408397",
+      "https://img1.wsimg.com/isteam/getty/2246511918",
+      "https://img1.wsimg.com/isteam/getty/2268878750",
+      "https://img1.wsimg.com/isteam/getty/1460836992"
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-16T06:15:01.772Z",
+    "lastUpdated": "2026-09-16T06:15:01.772Z",
+    "gettyId": "2268727892",
+    "alternativeGettyIds": [
+      "2274408397",
+      "2246511918",
+      "2268878750",
+      "1460836992"
+    ]
+  },
+  "pages/home/why-choose-us": {
+    "requestedSize": {
+      "width": 800,
+      "height": 700,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/gold-bars-stacked-premium-bullion-tradin-UrpHH_.png",
+    "searchQuery": "",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2208846503",
+      "https://img1.wsimg.com/isteam/getty/2264547479",
+      "https://img1.wsimg.com/isteam/getty/2206976711",
+      "https://img1.wsimg.com/isteam/getty/2292191063",
+      "https://img1.wsimg.com/isteam/getty/2180923546"
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-16T06:15:03.416Z",
+    "lastUpdated": "2026-10-08T22:08:36.169Z",
+    "alternativeGettyIds": [
+      "2208846503",
+      "2264547479",
+      "2206976711",
+      "2292191063",
+      "2180923546"
+    ],
+    "resizedUrl": "/airo-assets/uploads/variants/6ebf9772d0afbabb0d9f6d455ba0fff8.png",
+    "resizedFrom": {
+      "currentUrl": "/airo-assets/uploads/gold-bars-stacked-premium-bullion-tradin-UrpHH_.png",
+      "sourceBytes": 1109495,
+      "requestedSize": {
+        "width": 800,
+        "height": 700,
+        "fit": "cover"
+      }
+    }
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/c0de58e0-0bce-421a-b64c-d7070cc7f722/horizontal-transparent-6d294879-c1d4-47f8-8fda-a1ac919e3df3/logo-logo.png",
+    "searchQuery": "Premium wordmark logo for \"Ahmedabad Gold Process\" — elegant serif lettering wit",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/c0de58e0-0bce-421a-b64c-d7070cc7f722/horizontal-transparent-6d294879-c1d4-47f8-8fda-a1ac919e3df3/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/c0de58e0-0bce-421a-b64c-d7070cc7f722/horizontal-original-6d294879-c1d4-47f8-8fda-a1ac919e3df3/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/c0de58e0-0bce-421a-b64c-d7070cc7f722/horizontal-transparent-6d294879-c1d4-47f8-8fda-a1ac919e3df3/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/c0de58e0-0bce-421a-b64c-d7070cc7f722/horizontal-transparent-6d294879-c1d4-47f8-8fda-a1ac919e3df3/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/c0de58e0-0bce-421a-b64c-d7070cc7f722/horizontal-transparent-6d294879-c1d4-47f8-8fda-a1ac919e3df3/logo-logo.png": {
+        "sessionId": "c0de58e0-0bce-421a-b64c-d7070cc7f722",
+        "logoId": "6d294879-c1d4-47f8-8fda-a1ac919e3df3",
+        "groupId": "f3f18365-1748-4bce-bee6-8ad22afa88b3"
+      }
+    },
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/c0de58e0-0bce-421a-b64c-d7070cc7f722/horizontal-transparent-6d294879-c1d4-47f8-8fda-a1ac919e3df3/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/c0de58e0-0bce-421a-b64c-d7070cc7f722/horizontal-mockup-mug-6d294879-c1d4-47f8-8fda-a1ac919e3df3/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/c0de58e0-0bce-421a-b64c-d7070cc7f722/horizontal-mockup-card-6d294879-c1d4-47f8-8fda-a1ac919e3df3/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/c0de58e0-0bce-421a-b64c-d7070cc7f722/horizontal-mockup-tshirt-6d294879-c1d4-47f8-8fda-a1ac919e3df3/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/c0de58e0-0bce-421a-b64c-d7070cc7f722/horizontal-mockup-box-6d294879-c1d4-47f8-8fda-a1ac919e3df3/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/c0de58e0-0bce-421a-b64c-d7070cc7f722/horizontal-mockup-mug-6d294879-c1d4-47f8-8fda-a1ac919e3df3/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/c0de58e0-0bce-421a-b64c-d7070cc7f722/horizontal-mockup-card-6d294879-c1d4-47f8-8fda-a1ac919e3df3/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/c0de58e0-0bce-421a-b64c-d7070cc7f722/horizontal-mockup-tshirt-6d294879-c1d4-47f8-8fda-a1ac919e3df3/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/c0de58e0-0bce-421a-b64c-d7070cc7f722/horizontal-mockup-box-6d294879-c1d4-47f8-8fda-a1ac919e3df3/logo-logo.png"
+      }
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-16T06:15:42.201Z",
+    "lastUpdated": "2026-09-16T06:16:23.860Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#0a0f2c",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/c0de58e0-0bce-421a-b64c-d7070cc7f722/horizontal-transparent-6d294879-c1d4-47f8-8fda-a1ac919e3df3/logo-logo.png",
+    "logoGroupId": "f3f18365-1748-4bce-bee6-8ad22afa88b3"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/2b4ccee8-ab3e-4237-868d-0c219db02540/favicon-transparent-1efb9900-1b58-470d-849a-ed82027bd3fd/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/2b4ccee8-ab3e-4237-868d-0c219db02540/favicon-transparent-1efb9900-1b58-470d-849a-ed82027bd3fd/logo-logo.png": {
+        "sessionId": "2b4ccee8-ab3e-4237-868d-0c219db02540",
+        "logoId": "1efb9900-1b58-470d-849a-ed82027bd3fd",
+        "groupId": "f3f18365-1748-4bce-bee6-8ad22afa88b3"
+      }
+    },
+    "logoGroupId": "f3f18365-1748-4bce-bee6-8ad22afa88b3",
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/2b4ccee8-ab3e-4237-868d-0c219db02540/favicon-transparent-1efb9900-1b58-470d-849a-ed82027bd3fd/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/2b4ccee8-ab3e-4237-868d-0c219db02540/favicon-original-1efb9900-1b58-470d-849a-ed82027bd3fd/logo-logo.png"
+    },
+    "userModified": false,
+    "createdAt": "2026-09-16T06:15:59.779Z",
+    "lastUpdated": "2026-09-16T06:16:23.973Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#0a0f2c",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/2b4ccee8-ab3e-4237-868d-0c219db02540/favicon-transparent-1efb9900-1b58-470d-849a-ed82027bd3fd/logo-logo.png"
+  },
+  "generated/gold-bars-stacked-premium-bullion-tradin-k260eV": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/gold-bars-stacked-premium-bullion-tradin-UrpHH_.png",
+    "searchQuery": "gold bars stacked premium bullion",
+    "caption": "gold bars stacked premium bullion",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/gold-bars-stacked-premium-bullion-tradin-UrpHH_.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-16T06:16:16.772Z",
+    "lastUpdated": "2026-09-16T06:16:16.772Z"
+  },
+  "pages/services/hero": {
+    "requestedSize": {
+      "width": 1920,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1416785700",
+    "searchQuery": "gold bullion trading professional finance dark luxury",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2268878750",
+      "https://img1.wsimg.com/isteam/getty/2248086961",
+      "https://img1.wsimg.com/isteam/getty/2267985382"
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-16T06:20:33.238Z",
+    "lastUpdated": "2026-09-16T06:20:33.238Z",
+    "gettyId": "1416785700",
+    "alternativeGettyIds": [
+      "2268878750",
+      "2248086961",
+      "2267985382"
+    ]
+  },
+  "pages/about/hero": {
+    "requestedSize": {
+      "width": 1920,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/915314912",
+    "searchQuery": "gold jewelry on indian rupee notes",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2199586129",
+      "https://img1.wsimg.com/isteam/getty/1276740597",
+      "https://img1.wsimg.com/isteam/getty/1177579994",
+      "https://img1.wsimg.com/isteam/getty/2249571604"
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-16T06:22:17.243Z",
+    "lastUpdated": "2026-09-16T06:23:14.356Z",
+    "gettyId": "915314912",
+    "alternativeGettyIds": [
+      "2199586129",
+      "1276740597",
+      "1177579994",
+      "2249571604"
+    ],
+    "caption": "gold jewelry on indian rupee notes"
+  },
+  "pages/about/team-trading-floor": {
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2268239647",
+    "searchQuery": "gold bullion vault secure storage precious metals",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2208713401",
+      "https://img1.wsimg.com/isteam/getty/160146618",
+      "https://img1.wsimg.com/isteam/getty/2245802212"
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-16T06:22:27.143Z",
+    "lastUpdated": "2026-09-16T06:22:27.143Z",
+    "gettyId": "2268239647",
+    "alternativeGettyIds": [
+      "2208713401",
+      "160146618",
+      "2245802212"
+    ]
+  },
+  "pages/market-insights/hero": {
+    "requestedSize": {
+      "width": 1920,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2168932876",
+    "searchQuery": "gold price chart financial market data trading screen",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1500507449",
+      "https://img1.wsimg.com/isteam/getty/1476468161",
+      "https://img1.wsimg.com/isteam/getty/1384646810"
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-16T06:29:59.025Z",
+    "lastUpdated": "2026-09-16T06:29:59.025Z",
+    "gettyId": "2168932876",
+    "alternativeGettyIds": [
+      "1500507449",
+      "1476468161",
+      "1384646810"
+    ]
+  },
+  "pages/products/hero": {
+    "requestedSize": {
+      "width": 1400,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2249701839",
+    "searchQuery": "gold bars coins bullion collection premium dark background",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/969604806",
+      "https://img1.wsimg.com/isteam/getty/1481997633"
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-26T06:17:52.242Z",
+    "lastUpdated": "2026-09-26T06:17:52.242Z",
+    "gettyId": "2249701839",
+    "alternativeGettyIds": [
+      "969604806",
+      "1481997633"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "eyebrow": "Market Insights",
+    "headline": "Live Gold Rates & Market Intelligence",
+    "subheadline": "Today's gold rates updated by our trading desk. Prices are indicative and based on MCX/IBJA benchmarks. Call or WhatsApp for exact transaction rates."
+  },
+  "disclaimer": "Rates shown are indicative and updated periodically by our trading desk. Actual transaction rates may vary. For live transaction pricing, contact our desk directly.",
+  "insights": {
+    "heading": "Market Insights",
+    "subheading": "Our trading desk's perspective on gold market trends, seasonal demand, and investment outlook.",
+    "articles": [
+      {
+        "id": "a1",
+        "date": "September 2026",
+        "tag": "Market Outlook",
+        "title": "Gold Holds Strong Above ₹74,000 per 10g Amid Global Uncertainty",
+        "summary": "Gold prices have remained resilient above the ₹74,000 per 10g mark through Q3 2026, supported by sustained central bank buying, a weaker dollar, and elevated geopolitical risk premiums. Our desk expects continued support at current levels with potential upside into the festive season."
+      },
+      {
+        "id": "a2",
+        "date": "August 2026",
+        "tag": "Seasonal Demand",
+        "title": "Festive Season Demand: What Jewellers Should Know",
+        "summary": "Navratri and Diwali typically drive a 15–25% spike in physical gold demand across Gujarat. Jewellers who lock in bulk orders in September historically benefit from pre-festive pricing before the seasonal premium kicks in. Our trading desk is accepting advance bookings now."
+      },
+      {
+        "id": "a3",
+        "date": "July 2026",
+        "tag": "Investment",
+        "title": "Sovereign Gold Bonds vs Physical Gold: A Practical Guide for Investors",
+        "summary": "SGBs offer a 2.5% annual interest advantage over physical gold but lack the immediacy and flexibility of bullion. For investors with a 5+ year horizon and no near-term liquidity needs, SGBs remain compelling. For jewellers and those needing physical delivery, certified bullion remains the preferred route."
+      }
+    ]
+  },
+  "factors": {
+    "heading": "What Drives Gold Prices",
+    "items": [
+      {
+        "id": "f1",
+        "title": "MCX Spot Price",
+        "description": "The Multi Commodity Exchange of India sets the benchmark domestic gold price, tracking international LBMA rates adjusted for import duty and currency."
+      },
+      {
+        "id": "f2",
+        "title": "USD/INR Exchange Rate",
+        "description": "Gold is priced globally in US dollars. A weaker rupee directly raises domestic gold prices, even when international prices are flat."
+      },
+      {
+        "id": "f3",
+        "title": "Import Duty",
+        "description": "India levies import duty on gold, currently at 15% (including GST). Any change in duty rates has an immediate and significant impact on domestic prices."
+      },
+      {
+        "id": "f4",
+        "title": "Central Bank Buying",
+        "description": "RBI and global central banks have been net buyers of gold since 2022, providing a structural floor to prices and reducing downside risk."
+      },
+      {
+        "id": "f5",
+        "title": "Festive & Wedding Demand",
+        "description": "India's festive calendar — Navratri, Diwali, Dhanteras, and wedding season — creates predictable seasonal demand spikes, particularly in Gujarat and Maharashtra."
+      },
+      {
+        "id": "f6",
+        "title": "Global Risk Sentiment",
+        "description": "Gold is a safe-haven asset. Geopolitical tensions, equity market volatility, and inflation concerns all drive investors toward gold, pushing prices higher."
+      }
+    ]
+  },
+  "cta": {
+    "headline": "Need Exact Transaction Rates?",
+    "subheadline": "Our trading desk quotes live rates for bulk orders. WhatsApp or call us for an instant quote.",
+    "cta_whatsapp": "WhatsApp for a Quote",
+    "cta_call": "Call Our Desk"
+  }
+}

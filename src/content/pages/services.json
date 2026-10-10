@@ -1,0 +1,171 @@
+{
+  "hero": {
+    "eyebrow": "What We Offer",
+    "headline": "Comprehensive Gold Trading Services",
+    "subheadline": "From bulk bullion supply to purity testing and investment advisory — everything a jeweller or investor needs under one roof."
+  },
+  "services": [
+    {
+      "id": "s1",
+      "slug": "bullion-trading",
+      "icon": "BarChart3",
+      "title": "Bullion Trading",
+      "tagline": "Buy and sell at live market rates with full transparency.",
+      "description": "We offer competitive bullion trading for jewellers, retailers, and institutional buyers. All transactions are documented, priced at live MCX/IBJA rates, and settled promptly. Whether you need 10 grams or 10 kilograms, our trading desk is available six days a week.",
+      "features": [
+        {
+          "id": "f1",
+          "text": "Live MCX gold rate pricing"
+        },
+        {
+          "id": "f2",
+          "text": "Bulk order discounts available"
+        },
+        {
+          "id": "f3",
+          "text": "Same-day settlement for registered clients"
+        },
+        {
+          "id": "f4",
+          "text": "Full documentation and GST invoicing"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "slug": "gold-bars-coins",
+      "icon": "Layers",
+      "title": "Gold Bars & Coins",
+      "tagline": "Premium 24K and 22K certified gold in multiple denominations.",
+      "description": "We stock BIS hallmarked gold bars and coins in denominations from 1g to 1kg. All products carry assay certification and are sourced from LBMA-accredited refineries. Ideal for gifting, investment, and retail display.",
+      "features": [
+        {
+          "id": "f1",
+          "text": "1g, 2g, 5g, 10g, 20g, 50g, 100g, 500g, 1kg bars"
+        },
+        {
+          "id": "f2",
+          "text": "BIS hallmarked and assay certified"
+        },
+        {
+          "id": "f3",
+          "text": "LBMA-accredited refinery sourcing"
+        },
+        {
+          "id": "f4",
+          "text": "Custom packaging for gifting and retail"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "slug": "purity-testing",
+      "icon": "ShieldCheck",
+      "title": "Purity Testing",
+      "tagline": "Certified XRF and fire assay testing for accurate gold valuation.",
+      "description": "Our in-house laboratory uses XRF spectrometry and traditional fire assay methods to determine gold purity with precision. Trusted by jewellers across Ahmedabad for incoming gold verification, estate valuation, and dispute resolution.",
+      "features": [
+        {
+          "id": "f1",
+          "text": "XRF spectrometry — non-destructive testing"
+        },
+        {
+          "id": "f2",
+          "text": "Fire assay for highest accuracy"
+        },
+        {
+          "id": "f3",
+          "text": "Certified test reports issued"
+        },
+        {
+          "id": "f4",
+          "text": "Results in 30 minutes for XRF"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "slug": "buy-sell-gold",
+      "icon": "ArrowLeftRight",
+      "title": "Buy / Sell Gold",
+      "tagline": "Instant buy and sell at live rates — no hidden charges.",
+      "description": "Bring your gold — bars, coins, jewellery, or scrap — and receive an instant valuation at live market rates. We buy all forms of gold and pay immediately. No deductions, no delays, no hidden charges.",
+      "features": [
+        {
+          "id": "f1",
+          "text": "Instant valuation at live rates"
+        },
+        {
+          "id": "f2",
+          "text": "All forms accepted — bars, coins, jewellery, scrap"
+        },
+        {
+          "id": "f3",
+          "text": "Immediate payment — cash or bank transfer"
+        },
+        {
+          "id": "f4",
+          "text": "No hidden deductions or processing fees"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "slug": "gold-loans",
+      "icon": "Banknote",
+      "title": "Gold Loans",
+      "tagline": "Quick gold-backed loans at competitive interest rates.",
+      "description": "Unlock the value of your gold without selling it. Our gold loan facility offers up to 75% LTV at competitive interest rates with secure vault storage. Ideal for jewellers managing seasonal cash flow and individuals needing short-term liquidity.",
+      "features": [
+        {
+          "id": "f1",
+          "text": "Up to 90% loan-to-value ratio"
+        },
+        {
+          "id": "f2",
+          "text": "Competitive interest rates"
+        },
+        {
+          "id": "f3",
+          "text": "Secure insured vault storage"
+        },
+        {
+          "id": "f4",
+          "text": "Flexible repayment — 3 to 24 months"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "slug": "investment-schemes",
+      "icon": "TrendingUp",
+      "title": "Investment Schemes",
+      "tagline": "Systematic gold accumulation for long-term wealth.",
+      "description": "Our systematic gold accumulation plans let you invest in gold monthly at prevailing rates, averaging your cost over time. We also offer advisory on Sovereign Gold Bonds, Gold ETFs, and physical gold allocation strategies.",
+      "features": [
+        {
+          "id": "f1",
+          "text": "Monthly SIP starting from ₹1,000"
+        },
+        {
+          "id": "f2",
+          "text": "Sovereign Gold Bond advisory"
+        },
+        {
+          "id": "f3",
+          "text": "Gold ETF guidance"
+        },
+        {
+          "id": "f4",
+          "text": "Portfolio allocation consulting"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "headline": "Ready to Get Started?",
+    "subheadline": "Contact our trading desk for bulk enquiries, purity testing appointments, or investment advisory.",
+    "cta_whatsapp": "WhatsApp Us",
+    "cta_enquire": "Send Enquiry"
+  }
+}

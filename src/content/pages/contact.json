@@ -1,0 +1,25 @@
+{
+  "hero": {
+    "eyebrow": "Contact Us",
+    "headline": "Get in Touch With Our Trading Desk",
+    "subheadline": "For bulk gold enquiries, purity testing appointments, gold loans, or investment advisory — our team is available six days a week."
+  },
+  "info": {
+    "address_label": "Visit Us",
+    "address": "Manek Chowk, Ahmedabad, Gujarat - 380001",
+    "phone_label": "Call Us",
+    "phone": "+91 89050 64477",
+    "whatsapp_label": "WhatsApp",
+    "whatsapp": "+91 89050 64477",
+    "email_label": "Email",
+    "email": "enquiries@ahmedabadgoldprocess.com",
+    "hours_label": "Trading Hours",
+    "hours": "Monday – Saturday, 11:00 AM – 8:00 PM | Sunday Closed"
+  },
+  "form": {
+    "heading": "Send an Enquiry",
+    "subheading": "Fill in the form below and our team will respond within one business day.",
+    "success_heading": "Enquiry Received",
+    "success_message": "Thank you for reaching out. Our trading desk will get back to you within one business day."
+  }
+}
