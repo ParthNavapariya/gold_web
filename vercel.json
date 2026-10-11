@@ -1,0 +1,18 @@
+{
+  "buildCommand": "vite build",
+  "outputDirectory": "dist/client",
+  "rewrites": [
+    {
+      "source": "/api/gold-rates",
+      "destination": "/api/gold-rates"
+    },
+    {
+      "source": "/airo-assets/images/(.*)",
+      "destination": "/api/media?slot=$1"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
