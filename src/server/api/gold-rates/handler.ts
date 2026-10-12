@@ -18,7 +18,7 @@ interface RatesStore {
   source: string;
 }
 
-const RAPID_API_KEY = '469ad91299mshc998bcf76da0955p1f7beajsn4f1280d7a847';
+const RAPID_API_KEY = 'c4dc67c6d3msh15c7086e92e1d48p1707a0jsnb49b5608e743';
 const RAPID_API_HOST = 'gold-silver-rates-india.p.rapidapi.com';
 
 // Fallback & In-memory cache store
