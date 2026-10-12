@@ -7,8 +7,44 @@
       "destination": "/api/gold-rates"
     },
     {
-      "source": "/airo-assets/images/(.*)",
-      "destination": "/api/media?slot=$1"
+      "source": "/airo-assets/images/logo/horizontal",
+      "destination": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/c0de58e0-0bce-421a-b64c-d7070cc7f722/horizontal-transparent-6d294879-c1d4-47f8-8fda-a1ac919e3df3/logo-logo.png"
+    },
+    {
+      "source": "/airo-assets/images/logo/favicon",
+      "destination": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4102c267-b26c-45fa-8623-330babab16f0/session/2b4ccee8-ab3e-4237-868d-0c219db02540/favicon-transparent-1efb9900-1b58-470d-849a-ed82027bd3fd/logo-logo.png"
+    },
+    {
+      "source": "/airo-assets/images/pages/home/hero",
+      "destination": "https://img1.wsimg.com/isteam/getty/2268727892"
+    },
+    {
+      "source": "/airo-assets/images/pages/home/why-choose-us",
+      "destination": "/assets/images/gold-bars-stacked-premium-bullion-tradin-UrpHH_.png"
+    },
+    {
+      "source": "/airo-assets/images/pages/home/gold-bars-coins",
+      "destination": "https://img1.wsimg.com/isteam/getty/2284821844"
+    },
+    {
+      "source": "/airo-assets/images/pages/about/hero",
+      "destination": "https://img1.wsimg.com/isteam/getty/915314912"
+    },
+    {
+      "source": "/airo-assets/images/pages/about/team-trading-floor",
+      "destination": "https://img1.wsimg.com/isteam/getty/2268239647"
+    },
+    {
+      "source": "/airo-assets/images/pages/services/hero",
+      "destination": "https://img1.wsimg.com/isteam/getty/1416785700"
+    },
+    {
+      "source": "/airo-assets/images/pages/market-insights/hero",
+      "destination": "https://img1.wsimg.com/isteam/getty/2168932876"
+    },
+    {
+      "source": "/airo-assets/images/pages/products/hero",
+      "destination": "https://img1.wsimg.com/isteam/getty/2249701839"
     },
     {
       "source": "/(.*)",
